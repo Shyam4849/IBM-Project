@@ -67,7 +67,3 @@ python main.py
 
 ---
 
-📜 License
-
-This project is licensed under the MIT License.
-Use it, learn from it, and feel free to improve it!
